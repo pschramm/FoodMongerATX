@@ -18,8 +18,8 @@ intro:
       text: 'Pulled Pork Sandwich with SV Slaw, House Pickled Veggies & BBQ Sauce $9 '
     - image: /img/fries.jpg
       text: 'Parmesan Papas with house ketchup $4.75 '
-  heading: Intro Heading
-  description: intro
+  heading: Our Food Truck Menu
+  description: about the menu..
 main:
   heading: Great Food with no compromises
   description: main blurd
