@@ -22,6 +22,9 @@ intro:
     friends and family. This dream could not have gotten off the ground without
     the village that helped (and is helping) make it come true. Keep it Fresh &
     Freestyle friends!
+
+
+    Check out Some Recent Specials.
 products:
   - image: /img/fries.jpg
     text: Hand Cut Fries and Egg
