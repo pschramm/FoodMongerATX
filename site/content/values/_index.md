@@ -3,13 +3,13 @@ title: Our Catering Business
 image: /img/sandwich.jpg
 values:
   - heading: Office Parties
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/chicken.jpg
     text: we bring the truck to your office
   - heading: Weddings
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/beerburger.jpg
     text: We'll do a wedding
   - heading: Event
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/veggienachoes.jpg
     text: We'll bring the truck to a random event
 ---
 
