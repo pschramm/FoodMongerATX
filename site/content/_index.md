@@ -3,7 +3,7 @@ title: 'Now open at Hops & Grain Brewery in Austin, Tx.'
 subtitle: We also LOVE to cater! Reach out to us and let’s plan your next event
 image: /img/pulledpork.jpg
 blurb:
-  heading: We love Austin!
+  heading: Be our Guest!
   text: >-
     Shawn and Vanessa have been friends for over a decade. Their shared passion
     for food led to hours and days filled with conversation of opening their own
