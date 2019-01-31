@@ -1,8 +1,8 @@
 ---
 title: Our Food Truck
 image: /img/meatball.jpg
-heading: HEADING
-description: DESRIP
+heading: Foodmonger Austin
+description: Food Truck Menu
 intro:
   blurbs:
     - image: /img/sandwich.jpg
