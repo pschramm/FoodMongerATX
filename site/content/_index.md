@@ -29,7 +29,7 @@ products:
   - image: /img/fries.jpg
     text: Hand Cut Fries and Egg
   - image: /img/pulledpork.jpg
-    text: 'Pulled Pork Sandwich w/ SV Slaw, House Pickled Veggies & BBQ Sauce $9'
+    text: 'Pulled Pork Sandwich w/ SV Slaw, House Pickled Veggies & BBQ Sauce'
 values:
   heading: Our Catering Business
   text: Please contact us to talk about catering
