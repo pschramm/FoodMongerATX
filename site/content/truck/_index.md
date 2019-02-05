@@ -22,18 +22,15 @@ intro:
   description: about the menu..
 main:
   heading: Great Food with no compromises
-  description: main blurd
+  description: main blurb.....
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: more chicken
+    image: /img/chicken.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: more meatballs
+    image: /img/meatball.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Patrick Schramm
     quote: >-
       The first time I tried FoodMonger, I couldn’t even believe that it
       was.....
