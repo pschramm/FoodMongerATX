@@ -44,8 +44,10 @@ intro:
   heading: Our Catering Menu
   description: this is the description for our Catering menu
 main:
-  heading: Great Food with no compromises
-  description: main blurb.....
+  heading: All Food is Cooked Fresh to Order! 
+  description: FM = Made Fresh from Scratch in Our Truck
+  upgrade: Add Cheese, Egg, Avocado $1 or (2)Bacon $1.5 to Any Item 
+  note:    All Burgers Are Cooked Medium
   image1:
     alt: more chicken
     image: /img/chicken.jpg
@@ -55,7 +57,7 @@ main:
 testimonials:
   - author: Patrick Schramm
     quote: >-
-      Shawn catered my event and the food was awesome! 
+      Shawn catered my event and it was awesome! 
   - author: Joe Bloe
     quote:  Catered a bunch of pulled pork!
 full_image: /img/pulledpork.jpg

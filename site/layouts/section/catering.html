@@ -7,12 +7,18 @@
 
 
 {{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+<div class="center mb3 ph3">
+    <blockquote class="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
+      <p class="f4 mb0">{{ .heading }}</p>
+      <cite class="tr db grey-3">{{ .description }}</cite>
+      <cite class="tr db grey-3">{{ .upgrade }}</cite>
+      <cite class="tr db red">*{{ .note }}</cite>
+    
+    </blockquote>
   </div>
-</div>
+  
+
+
 
 <!-- Image grid -->
 {{ partial "image-grid" . }}

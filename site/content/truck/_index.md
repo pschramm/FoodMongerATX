@@ -44,14 +44,16 @@ intro:
   heading: Our Food Truck Menu
   description: this is the description for our truck menu
 main:
-  heading: Great Food with no compromises
-  description: main blurb.....
+  heading: All Food is Cooked Fresh to Order! 
+  description: FM = Made Fresh from Scratch in Our Truck
+  upgrade: Add Cheese, Egg, Avocado $1 or (2)Bacon $1.5 to Any Item 
+  note:    All Burgers Are Cooked Medium
   image1:
-    alt: more chicken
-    image: /img/chicken.jpg
+    alt: more fries
+    image: /img/fries.jpg
   image2:
-    alt: more meatballs
-    image: /img/meatball.jpg
+    alt: more beer
+    image: /img/beerburger.1.jpg
 testimonials:
   - author: Patrick Schramm
     quote: >-
