@@ -55,9 +55,8 @@ main:
 testimonials:
   - author: Patrick Schramm
     quote: >-
-      The first time I tried FoodMonger, I couldn’t even believe that it
-      was.....
-  - author: Philipp Trommler
-    quote: Love the Meatball Sandwich!
+      Shawn catered my event and the food was awesome! 
+  - author: Joe Bloe
+    quote:  Catered a bunch of pulled pork!
 full_image: /img/pulledpork.jpg
 ---
