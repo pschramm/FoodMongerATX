@@ -2,7 +2,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
+
+{{ partial "menu_list" .Params.intro }}
 
 
 {{ with .Params.main }}
