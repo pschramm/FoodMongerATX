@@ -1,6 +1,7 @@
 ---
 title: 'Now open at Hops & Grain Brewery in Austin, Tx.'
 subtitle: We also LOVE to cater! Reach out to us and let’s plan your next event
+description: Food truck Austin Texas at Hops & Grains Brewery, chicken , burgers , catering
 image: /img/pulledpork.jpg
 blurb:
   heading: Our Food
