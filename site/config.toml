@@ -2,3 +2,4 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
 disableHugoGeneratorInject = true
+live_base_url = "https://www.thefoodmongeratx.com"
