@@ -41,8 +41,10 @@ intro:
       - image: /img/sandwich.jpg
         text: >- 
               Lavender Butter Cheese Burger – 7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions $13.5
-  heading: Our Catering Menu
-  description: this is the description for our Catering menu
+  heading: Catering starts as low as $9 per person.
+  description: 
+    We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. All protein platters come with two sides. 
+  note: Drinks and Desserts are available upon request.
 main:
   heading: All Food is Cooked Fresh to Order! 
   description: FM = Made Fresh from Scratch in Our Truck

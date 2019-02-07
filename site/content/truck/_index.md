@@ -41,8 +41,8 @@ intro:
       - image: /img/sandwich.jpg
         text: >- 
               Lavender Butter Cheese Burger – 7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions $13.5
-  heading: Our Food Truck Menu
-  description: this is the description for our truck menu
+  heading:  Come visit us at Hops and Grains Brewery in Austin, Texas.
+  description: Wednesday – Sunday 5PM – 10PM
 main:
   heading: All Food is Cooked Fresh to Order! 
   description: FM = Made Fresh from Scratch in Our Truck
