@@ -3,7 +3,7 @@ title: Food Monger
 subtitle: Hops and Grains
 image: /img/pulledpork.jpg
 blurb:
-  heading: Our Food
+  heading: Food
   text: >-
     Food has a way of connecting people like nothing else. We are passionate
     about creating and cooking dishes that will surprise and satisfy our
@@ -22,7 +22,7 @@ products:
   - image: /img/pulledpork.jpg
     text: 'Pulled Pork Sandwich w/ SV Slaw, House Pickled Veggies & BBQ Sauce'
 values:
-  heading: Our Catering Business
+  heading: Catering
   text: Please contact us and lets talk about catering...
 ---
 

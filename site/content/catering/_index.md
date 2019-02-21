@@ -44,7 +44,7 @@ intro:
   heading: Catering starts as low as $9 per person.
   description: 
     We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. All protein platters come with two sides. 
-  note: Drinks and Desserts are available upon request.
+  note: 
 main:
   heading: All Food is Cooked Fresh to Order! 
   description: FM = Made Fresh from Scratch in Our Truck
