@@ -7,40 +7,49 @@ intro:
   blurbs:
       - image: /img/sandwich.jpg
         text: >-
-              HandCut Papas with FM Ketchup $4
+              Breakfast Sandwiches served on a Brioche Bun w/ FM Jalapeno Aioli
+        desc: 2 Fried Egg with your choice of
+        options: Provolone or Cheddar Cheese
+        options2: Bacon, FM Sausage, or FM Chorizo
+        price: $9 per person
       - image: /img/sandwich.jpg
-        text: >- 
-            Parmesan Papas with FM Ketchup $4.75
+        text: >-
+              Build Your Own Breakfast Tacos Bar
+        desc: Scrambled Eggs and your choice of two of the following
+        options: Bacon, FM Sausage, FM Chorizo, Potatoes or Re-Fried Beans
+        desc2: Served with Tortillas & Salsa. 
+        price: $9.5 per person
       - image: /img/sandwich.jpg
-        text: >- 
-          Satchamo Queso – Creamy White Melted Cheese, Fresh Spinach, FM Pico, Roasted Green Chiles & FM Red Tortilla Chips $6.5
+        text: >-
+              Sandwiches served on a Brioche Bun with your choice of Turkey, Ham, Grilled Chicken or Veggie
+        desc: All sandwiches are “dressed” with spring mix and tomato. FM Pickles on the side.
+        options: Provolone or Cheddar Cheese
+        desc2: Jalapeno Aioli or FM Mustard
+        price: $10.5 per person
       - image: /img/sandwich.jpg
-        text: >- 
-              Satchamo Queso & Bacon Papas $8
+        heading: Wraps
+        text: >-
+            Bean & Quinoa Wrap with Black & Pinto Beans, Quinoa, FM Avocado Lime Sauce, Spring Mix, FM Pico & Roasted Corn
+        desc: Turkey Bacon Wrap with Roasted Turkey, Bacon, Spring Mix, FM Pico & FM Avocado Ranch Grilled Chicken 
+        options: Cesar Warp with Grilled Chicken, FM Cesar Dressing, Romaine Lettuce Diced Tomato & Parmesan Cheese 
+        desc2: Buffalo Wrap with 2 FM Cluckers (Our Famous Chicken Tenders) tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch
+        price: $10.5 per person
       - image: /img/sandwich.jpg
-        text: >- 
-              Bacon & Cheeeeeese Quesadilla with FM Pico & FM Avocado Ranch $8.5
+        text: >-
+              Build Your Own Taco Bar
+        desc: Beef, Chicken or Pork
+        options: Served with Sautéed Peppers & Onions 
+        desc2: Soft Flour Tortillas. 
+        desc3: Includes Spanish Rice, Pinto or Black Beans FM Pico, Fresh Salsa, Sour Cream and Shredded Cheese
+        price: $13.5 per person
       - image: /img/sandwich.jpg
-        text: >- 
-              Fried Egg Sandwich – 2 Fried Eggs, Spring Mix, FM Mustard & Tomato on a Toasted Brioche Bun $8.5
-      - image: /img/sandwich.jpg
-        text: >- 
-              Bean & Quinoa Wrap with Black & Pinto Beans, Quinoa, Avocado Lime Sauce, Spring Mix, FM Pico $9.75
-      - image: /img/sandwich.jpg
-        text: >- 
-              “Our Famous” Cluckers – Hand Cut & Breaded in Our Special FM Spice Mix (Chicken Tenders) with Avocado Ranch $9.75
-      - image: /img/sandwich.jpg
-        text: >- 
-              The Healthy Buffalo Wrap – 2 Cluckers Tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch $10
-      - image: /img/sandwich.jpg
-        text: >- 
-              The Turkey Bacon Wrap – Roasted Turkey, 2 Slices of Wrights Thick Cut Bacon, Spring Mix, FM Pico & FM Avocado Ranch All Rolled Up in a 13’ Tortilla $11
-      - image: /img/sandwich.jpg
-        text: >- 
-              The Nessa Burger – 7oz Ground Beef Burger with FM Pickles, Tomato, Spring Mix & FM Mustard on a Toasted Brioche Bun $10 
-      - image: /img/sandwich.jpg
-        text: >- 
-              Lavender Butter Cheese Burger – 7oz Ground Beef Burger, Melted Fontina Cheese, FM Roasted Garlic Lavender Butter, Wrights Thick Cut Bacon, FM Pickles, & Caramelized Onions $13.5
+        text: >-
+              Build Your Own Salad Bar
+        desc: Spring Mix, Grilled Chicken, Shredded Carrots, Cucumbers, Cherry Tomatoes, Celery, Bacon, Shredded Cheese, Croutons, FM Vinaigrette & FM Avocado Ranch 
+        options: 
+        desc2:
+        desc3: 
+        price: $13.5 per person
   heading: Catering starts as low as $9 per person.
   description: 
     We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. All protein platters come with two sides. 

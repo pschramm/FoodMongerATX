@@ -3,7 +3,7 @@ title: Contact
 logo: /img/logo.png
 contact_entries:
   - heading: Location
-    text: '507 Calles Street Suite 101'
+    text: '507 Calles Street Suite 101 Austin, Tx 78723'
   - heading: Hours
     text: 'Thurs-Sun: 5PM – 10PM'
 ---
