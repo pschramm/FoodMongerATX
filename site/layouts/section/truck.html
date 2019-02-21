@@ -2,9 +2,11 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "menu_list" .Params.intro }}
 
 {{ partial "menublurb" .Params.main }}
+
+{{ partial "menu_list_new" .Params.intro }}
+
 
 <!-- Image grid -->
 

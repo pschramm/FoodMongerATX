@@ -1,0 +1,86 @@
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			.menu {
+				margin-bottom: 15px;
+				max-width: 1200px;
+    			margin: 0 auto;
+			}
+			.menu_restName {
+				text-align: center;
+    			font-size: 70px;
+    			margin-top: 0;
+			}
+			.menu_title {
+				text-align: center;
+			}
+			.menu_section {
+				margin-bottom: 30px;
+			}
+			.menu_section h3 {
+				font-style: italic;
+			}
+			.menu_item {
+				margin: 0 15px;
+				position: relative;
+			}
+		
+			.price {
+				display: block;
+				float: right;
+				position: absolute;
+				bottom: 0px;
+				right: 0;
+				background-color: white;
+				font-weight: bold;
+			}
+			.description {
+				margin-top: 5px;
+				font-style: italic;
+				background-color: white;
+				display: inline-block;
+				max-width: 50%;
+			}
+			hr {
+				border: none;
+    			border-top: 1px dotted black;
+    			margin-top: -20px;
+			}
+			
+			@media (max-width: 575px) {
+				.menu_title {
+					text-align: center;
+					font-size: 30px;
+				}
+				.menu_section h3 {
+					text-align: center;
+    				font-size: 30px;
+				}
+				.menu_item {
+					text-align: center;
+				}
+				.price {
+					float: none;
+					position: static;
+					margin-top: 15px;
+				}
+				hr {
+					display: none;
+				}
+			}
+		</style>
+	<section class="menu">      
+        <div class="menu_section menu_section_15507655735">
+                {{ range .blurbs }}
+				<div class="menu_item menu_item_15507655965">
+                        <h3 class="f4 b lh-title mb1 primary">{{ .text }}</h3>
+							<span class="price">{{ .price }}</span>
+							<p class="description">{{ .desc }}</p>
+							<hr>
+						</div>
+			        </div> 
+			{{ end }}                
+ 
+
+ </section>
