@@ -13,9 +13,10 @@ blurb:
 intro:
   heading: About Us
   text: >-
-    Shawn and Vanessa have been friends for over a decade. Their shared passion
-    for food led to hours and days filled with conversation of opening their own
-    culinary adventure.
+    Shawn and Vanessa have been friends for over a decade. Their shared passion for food led to hours and days filled with conversation of opening their own culinary adventure. 
+  text2: >-
+    With a vision of fresh food and a freestyle menu, The Food Monger hatched in October of 2017. From handmade sauces to freshly pickled veggies to on-the-truck-cut fries and the freshest meat, their commitment to quality is unchallenged. Every item is prepared by Shawn and Vanessa. The ever-changing menu and the made-from-scratch items keep their minds thinking and your bellies hungry for more. Freestyle means no boundary on cuisines, flavors, or collaborations. Every venture is different, and that barely scratches the surface!
+    The Food Monger has been blessed with a great support system of friends and family. This dream could not have gotten off the ground without our amazing customers.
 products:
   - image: /img/fries.jpg
     text: Hand Cut Fries and Egg

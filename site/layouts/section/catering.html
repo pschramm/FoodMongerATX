@@ -4,13 +4,6 @@
 
 {{ partial "menublurb" .Params.intro }}
 
-{{ partial "takeoutmenu" .Params.intro }}
-
-
-{{ with .Params.main }}
-<!-- Image grid -->
-{{ partial "image-grid" . }}
-{{ end }}
-
+{{ partial "catering_menu_new" .Params.intro }}
 
 {{ end }}

@@ -27,17 +27,9 @@ intro:
         desc2: Jalapeno Aioli or FM Mustard
         price: $10.5 per person
       - image: /img/sandwich.jpg
-        heading: Wraps
-        text: >-
-            Bean & Quinoa Wrap with Black & Pinto Beans, Quinoa, FM Avocado Lime Sauce, Spring Mix, FM Pico & Roasted Corn
-        desc: Turkey Bacon Wrap with Roasted Turkey, Bacon, Spring Mix, FM Pico & FM Avocado Ranch Grilled Chicken 
-        options: Cesar Warp with Grilled Chicken, FM Cesar Dressing, Romaine Lettuce Diced Tomato & Parmesan Cheese 
-        desc2: Buffalo Wrap with 2 FM Cluckers (Our Famous Chicken Tenders) tossed in FM Buffalo Sauce, Spring Mix, FM Pico & FM Avocado Ranch
-        price: $10.5 per person
-      - image: /img/sandwich.jpg
         text: >-
               Build Your Own Taco Bar
-        desc: Beef, Chicken or Pork
+        desc: Choose 1-2 of the following Beef, Chicken or Pork
         options: Served with Sautéed Peppers & Onions 
         desc2: Soft Flour Tortillas. 
         desc3: Includes Spanish Rice, Pinto or Black Beans FM Pico, Fresh Salsa, Sour Cream and Shredded Cheese
@@ -52,7 +44,7 @@ intro:
         price: $13.5 per person
   heading: Catering starts as low as $9 per person.
   description: 
-    We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. All protein platters come with two sides. 
+    We can deliver your food and set it up in your home or office, for larger parties we can also bring our food truck to your location. You can pick from one of our many trays, build your own bars, group entrees or protein platters. 
   note: 
 main:
   heading: All Food is Cooked Fresh to Order! 
@@ -65,11 +57,5 @@ main:
   image2:
     alt: more meatballs
     image: /img/meatball.jpg
-testimonials:
-  - author: Patrick Schramm
-    quote: >-
-      Shawn catered my event and it was awesome! 
-  - author: Joe Bloe
-    quote:  Catered a bunch of pulled pork!
-full_image: /img/pulledpork.jpg
+ 
 ---

@@ -1,0 +1,136 @@
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			.menu {
+				margin-bottom: 15px;
+				max-width: 1200px;
+    			margin: 0 auto;
+			}
+			.menu_restName {
+				text-align: center;
+    			font-size: 70px;
+    			margin-top: 0;
+			}
+			.menu_title {
+				text-align: center;
+			}
+			.menu_section {
+				margin-bottom: 30px;
+			}
+			.menu_section h3 {
+				font-style: italic;
+			}
+			.menu_item {
+				margin: 0 15px;
+				position: relative;
+			}
+		
+			.price {
+				display: block;
+				float: right;
+				position: absolute;
+				bottom: 0px;
+				right: 0;
+				background-color: white;
+				font-weight: bold;
+			}
+			.description {
+				margin-top: 5px;
+				font-style: italic;
+				background-color: white;
+				display: inline-block;
+				max-width: 50%;
+			}
+			hr {
+				border: none;
+    			border-top: 1px dotted black;
+    			margin-top: -20px;
+			}
+			
+			@media (max-width: 575px) {
+				.menu_title {
+					text-align: center;
+					font-size: 30px;
+				}
+				.menu_section h3 {
+					text-align: center;
+    				font-size: 30px;
+				}
+				.menu_item {
+					text-align: center;
+				}
+				.price {
+					float: none;
+					position: static;
+					margin-top: 15px;
+				}
+				hr {
+					display: none;
+				}
+			}
+		</style>
+	<section class="menu">      
+        <div class="menu_section menu_section_15507655735">
+			{{ range .blurbs }}
+				<div class="menu_item menu_item_15507655965">
+                        <h3 class="f4 b lh-title mb1 primary">{{ .text }}</h3>
+							<span class="price">{{ .price }}</span>
+                            <p class="description">{{ .desc }}</p>
+                            {{ .options }}
+                            {{ .options2 }}
+						</div>
+			        </div> 
+			{{ end }}                
+    
+    
+            <div class="menu_item menu_item_15507655965">
+                <h3 class="f4 b lh-title mb1 primary">Wraps</h3>
+                <p class="description">Turkey Bacon Wrap with Roasted Turkey, Bacon, Spring Mix, FM Pico &amp; FM Avocado Ranch</p>
+                    <p class="description">Grilled Chicken Cesar Warp with Grilled Chicken, FM Cesar Dressing, Romaine Lettuce Diced Tomato &amp; Parmesan Cheese</p>
+                        <p class="description">Buffalo Wrap with 2 FM Cluckers (Our Famous Chicken Tenders) tossed in FM Buffalo Sauce, Spring Mix, FM Pico &amp; FM Avocado Ranch </p>
+                            <p class="description">Bean &amp; Quinoa Wrap with Black &amp; Pinto Beans, Quinoa, FM Avocado Lime Sauce, Spring Mix, FM Pico &amp; Roasted Corn</p>
+
+<span class="price">$10.5 per person</span>
+
+    <div class="menu_section menu_section_15507655735">         
+    <h3 class="f4 b lh-title mb1 primary">Sides </h3>
+        <span class="price">$2.25 per person</span>
+        <p class="description">
+        <ul>THE FM Guacamole <br />
+        SV Slaw <br />
+        Asian Slaw<br />
+        FM Roasted Street Corn<br />
+        Pasta Salad<br />
+        Potato Salad<br />
+        Mac &amp; Cheese<br />
+        Green Chili Mac &amp; Cheese<br />
+        Mashed Potatoes <br />
+        </ul>
+        </p>
+    </div>
+</div>
+
+
+
+<div class="menu_section menu_section_15507655735">         
+    <h3 class="f4 b lh-title mb1 primary">Other Sides, Drinks &amp; Desserts</h3>
+
+ <p>FM Salt &amp; Pepper Chips $1.5 per person</p>
+ FM Red Tortilla Chips $2.5 per person with choice of:
+ <ul class="pa3">
+         <li>FM Pico</li>
+         <li> FM Roasted Tomatillo Salsa</li>
+         <li> FM Honey Hot Jalapeno Salsa</li>
+     </ul>
+ 
+ Add a Brownie or Cookie to any meal for $1 per person <br />
+ <br />
+Bottled Water $1.5<br />
+Soda Can $1.5<br />
+Topo Chico $2<br />
+Flavored Sparkling Water $2<br />
+</p>
+</div>
+
+</section>

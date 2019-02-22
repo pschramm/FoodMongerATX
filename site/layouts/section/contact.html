@@ -6,18 +6,14 @@
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
 
 		{{ .Content }}
-
-		
 	        	{{ range .Params.contact_entries }}
-				
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<h3>{{ .text }}</h3>
-					
+					<h3>{{ .text2 }}</h3>
+					<h3>{{ .text3 }}</h3>
 			{{ end }}
 			<hr>
 		{{ partial "contact-form" . }}
-
 	</div>
 </div>
-
 {{ end }}
