@@ -1,6 +1,6 @@
 ---
 title:  Food Truck
-image: /img/meatball.jpg
+image: /img/truck.jpg
 heading: Foodmonger Austin
 description: Food Truck Menu
 intro:

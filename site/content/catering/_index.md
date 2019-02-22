@@ -1,6 +1,6 @@
 ---
 title: Our Catering Business
-image: /img/veggienachoes.jpg
+image: /img/catering.jpg
 heading: Foodmonger Catering Austin
 description: Catering Menu
 intro:

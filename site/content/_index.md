@@ -1,7 +1,7 @@
 ---
 title: Food Monger
 subtitle: Hops and Grains
-image: /img/pulledpork.jpg
+image: /img/home-top.jpg
 blurb:
   heading: Food
   text: >-
